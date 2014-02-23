@@ -35,7 +35,9 @@ This tutorial will introduce the use of Python for statistical data analysis, us
 
 To follow along interactively with the tutorial, you should have the following Python packages installed:
 
-* NumPy
-* SciPy
-* Matplotlib
-* statsmodels (optional)
+* [NumPy](https://github.com/numpy/numpy)
+* [SciPy](https://github.com/scipy/scipy)
+* [Matplotlib](https://github.com/matplotlib/matplotlib)
+* [statsmodels](https://github.com/statsmodels/statsmodels/) (optional)
+
+These can most easily be installed via `conda` on the [Anaconda Python distribution](http://docs.continuum.io/anaconda/), or with the [Scipy Superpack](http://fonnesbeck.github.io/ScipySuperpack/) on OS X 10.9 (Mavericks).
