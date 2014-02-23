@@ -8,7 +8,7 @@ This tutorial will introduce the use of Python for statistical data analysis, us
 
 ### [Data Wrangling with Pandas](http://nbviewer.ipython.org/github/fonnesbeck/pytenn2014_tutorial/blob/master/Part%201.%20Data%20Wrangling%20with%20Pandas.ipynb) (60 min)
 
-* Importing data
+* Introduction to NumPy arrays
 * Series and DataFrame objects
 * Indexing, data selection and subsetting
 * Hierarchical indexing
